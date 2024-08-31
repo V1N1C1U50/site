@@ -1,0 +1,82 @@
+/*Molde*/
+*{
+    margin: 0 auto;
+    padding: 0;}
+
+p, h1, h2, li, a, body{
+
+text-align: center;}
+
+/*Aparencia*/
+.tamanho{
+    width: 30%;
+    height: 250px;
+    border: solid 1px;
+    border-radius: 50px 5px;}
+.tamanho2{
+    width: 30%;
+    height: 250px;}
+
+/*Formatos*/
+.principal{
+        width: 100%;
+        padding: 20px;
+        margin: auto;}    
+.principal2{
+        width: 200%;
+        padding: 40px;
+        margin: auto;}
+
+/*espaçamento*/
+.espaço1{
+    padding: 20px;}
+
+/*Estilos*/
+.style{
+    padding: 20px;
+    width: 500px;
+    border: 1px solid;
+    border-radius: 20px;}
+.style2{
+    padding: 10px;}
+.style3{
+    outline: unset;
+    padding: 1px;
+    width: 350px;
+    border: black;
+    border-radius: 30px;}
+.style4{
+    outline: unset;
+    padding: 1px;
+    border: black;
+    border-radius: 30px;
+    width: 350px;
+    height: 25px;}
+.style5{
+    outline: unset;
+    padding: 2opx;
+    border: black;
+    border-radius: 30px;
+    background-color: yellow;
+    width: 250px;
+    height: 30px;}
+
+/*Paleta de cores*/
+.cor1{
+    background-color: blue;}
+.cor2{
+    background-color: lightskyblue;}
+.cor3{
+    background-color: beige;}
+.headercolor{
+    color: white;}
+.color{
+    color: white;}
+
+/*Fontes*/
+.fonte{
+    font-family: Arial, sans-serif;}
+.fonte2{
+    font-family: system-ui, sans-serif;}
+.fonte3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
